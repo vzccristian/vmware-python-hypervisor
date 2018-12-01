@@ -1,0 +1,6 @@
+pyVim 
+pyVmomi 
+PyQt5
+requests
+
+
